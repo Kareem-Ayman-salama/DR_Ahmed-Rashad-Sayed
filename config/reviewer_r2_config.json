@@ -1,0 +1,15 @@
+{
+  "competition_id": 11,
+  "competition_name": "La Liga",
+  "window_sizes": [25, 50, 100],
+  "primary_window_size": 50,
+  "long_pass_threshold": 30.0,
+  "unexpected_goal_xg_threshold": 0.1,
+  "substitution_burst_threshold": 2,
+  "error_cluster_threshold": 2,
+  "download_workers": 16,
+  "use_cached_events_only": false,
+  "random_seed": 20260908,
+  "bootstrap_resamples": 1000,
+  "source_base_url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data"
+}
