@@ -5,3 +5,6 @@ __pycache__/
 output/
 .pytest_cache/
 .mypy_cache/
+src/coach_agent_pipeline/data/
+src/coach_agent_pipeline/models/
+src/coach_agent_pipeline/outputs/
